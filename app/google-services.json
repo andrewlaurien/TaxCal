@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1095999278677",
+    "firebase_url": "https://taxcalculator-e7640.firebaseio.com",
+    "project_id": "taxcalculator-e7640",
+    "storage_bucket": "taxcalculator-e7640.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095999278677:android:4e9c760f67f90c7d",
+        "android_client_info": {
+          "package_name": "com.andrewlaurien.TaxCalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095999278677-t5hetutf3gqi3vs3nc12mr6gqvlmor27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd8KPwiqrpZvTaMnU8HSstqlkl4yY3DqU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
